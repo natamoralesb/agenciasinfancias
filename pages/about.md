@@ -9,7 +9,10 @@ credits: true
 ---
 
 Proyecto desarrollado por Catalina Jiménez, María José Parga y Natalia Morales para el Laboratorio "Las caras de la violencia en América Latina" impartido por el Dr. José Santos.
+
 Magíster en Artes, Pensamiento y Cultura Latinoamericanos
+
 Instituto de Estudios Avanzados
+
 Universidad de Santiago
 
